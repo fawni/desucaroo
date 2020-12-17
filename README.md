@@ -15,4 +15,5 @@ A Simple Dark Vocaroo Theme With A Cute Anime Girl.
 ## Disclaimer
 
 This is a _complete_ rewrite of [Amellivka's](https://userstyles.org/styles/172685/desucaroo) deprecated desucaroo theme.
-The code is kinda messy and dumb but it werks.
+
+***The code is kinda messy and dumb but it werks.***
