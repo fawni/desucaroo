@@ -2,7 +2,7 @@
 
 # desucaroo
 
-A Dark Vocaroo Theme With A Cute Anime Girl.
+A Simple Dark Vocaroo Theme With A Cute Anime Girl.
 
 ![desucaroo](https://raw.githubusercontent.com/Aokiare/desucaroo/master/desucaroo.png)
 
