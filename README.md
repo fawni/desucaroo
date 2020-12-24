@@ -4,7 +4,7 @@
 
 A Simple Dark Vocaroo Theme With A Cute Anime Girl.
 
-![desucaroo](https://raw.githubusercontent.com/Aokiare/desucaroo/master/desucaroo.png)
+![desucaroo](https://raw.githubusercontent.com/Aokiare/desucaroo/master/desucaroo-screenshot.png)
 
 ## How to use it
 
@@ -14,6 +14,6 @@ A Simple Dark Vocaroo Theme With A Cute Anime Girl.
 
 ## Disclaimer
 
-This is a *complete* rewrite of [Amellivka's](https://userstyles.org/styles/172685/desucaroo) deprecated desucaroo theme.
+This is a _complete_ rewrite of [Amellivka's](https://userstyles.org/styles/172685/desucaroo) deprecated desucaroo theme.
 
-***The code is dumb but it werks.***
+**_The code is dumb but it werks._**
