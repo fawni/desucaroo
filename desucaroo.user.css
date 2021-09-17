@@ -1,0 +1,141 @@
+/* ==UserStyle==
+@name         desucaroo
+@version      2.0.0
+@description  A Dark Vocaroo Theme With A Cute Anime Girl.
+@namespace    Aokiare
+@author       Aokiare
+@homepageURL  https://github.com/Aokiare/desucaroo
+@supportURL   https://github.com/Aokiare/desucaroo/issues
+@updateURL    https://raw.githubusercontent.com/Aokiare/desucaroo/master/desucaroo.user.css
+@license      MIT
+==/UserStyle== */
+
+@-moz-document domain("vocaroo.com") {
+  /* @import url('https://fonts.googleapis.com/css?family=Roboto+Mono'); */
+  body,
+  html {
+    background: #202020 !important;
+    font-family: "Roboto Mono", "Lucida Console", monospace !important;
+    padding-top: 0.5%;
+    padding-bottom: 2%;
+    color: #cacaca !important;
+    font-size: 10.5pt;
+    text-align: center;
+  }
+  a {
+    color: #dbc4de !important;
+  }
+  .Header__mascotImage {
+    /* content: url(https://puu.sh/DF6r5/9f822707a4.png); */
+    content: url(https://i.imgur.com/mhjJ4N8.png);
+    /* left: 178px; */
+  }
+  .Header__imageContainer {
+    height: 150px;
+  }
+  .MuiTypography-h6 {
+    font-family: "Roboto Mono", "Lucida Console", monospace !important;
+  }
+  .Player {
+    background-color: #191919;
+    margin-top: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    padding: 20px;
+    border-radius: 0px;
+    box-shadow: none;
+  }
+  .ContentBox {
+    background-color: #191919;
+    width: auto;
+    padding: 20px;
+    border-radius: 0px;
+    box-shadow: none;
+  }
+  h1,
+  h2 {
+    color: #dbc4de;
+  }
+  textarea {
+    background-color: #212121;
+    font-family: "Roboto Mono", "Lucida Console", monospace !important;
+  }
+  .shareVocarooLinkBox,
+  input[type="text"],
+  .SharingOptions__embedTextArea {
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 0px;
+    width: 300px;
+    margin-left: 0px;
+    margin-right: 7px;
+    font-size: 10pt;
+    border: none;
+    color: #acacac;
+    background-color: #262626 !important;
+    font-family: "Roboto Mono", "Lucida Console", monospace !important;
+  }
+  .SharingOptions__embedTextArea {
+    width: 350px;
+    height: 150px;
+  }
+  .Footer {
+    background-color: #202020;
+    font-size: 0.8rem;
+    color: #cacaca;
+  }
+  .Header__titleImg {
+    display: none;
+  }
+  .Scrubber__scrubBar,
+  .Volume__block,
+  .MuiPaper-root,
+  .ProgressBar__bar {
+    background-color: #535353;
+  }
+  .Scrubber__scrubBarFill,
+  .Volume__block--selected,
+  .MuiSwitch-colorSecondary.Mui-checked + .MuiSwitch-track,
+  .ProgressBar__barFill {
+    background-color: #dbc4de;
+  }
+  .RecorderSettingsButton,
+  .Player__timeBar,
+  .MuiInputBase-root-39,
+  .MuiSelect-icon-26,
+  .Volume__verticalIcon,
+  .MuiSwitch-colorSecondary.Mui-checked,
+  .MuiPaper-root,
+  .Button__button,
+  .Button__button:hover,
+  .ProgressBarWithPercent__label,
+  .Uploader__item {
+    color: #dbc4de;
+  }
+  .MuiTypography-colorTextSecondary {
+    color: #cacaca;
+    font-family: "Roboto Mono", "Lucida Console", monospace !important;
+  }
+  .Button__button,
+  .Button__button:hover {
+    background-color: #53535300; /* remove 00 if you want buttons to have a visible background */
+    border-radius: 0px;
+    box-shadow: none;
+  }
+  .MuiInput-underline-31:before {
+    border-bottom: 1px solid #dbc4de;
+  }
+  rect {
+    fill: #535353;
+  }
+  path[d="M420.504 460.52c-1.52 2.097-1.504 27.347.157 28.635 1.873 1.453 24.497-10.547 24.497-14.317 0-3.77-23.6-15.77-24.654-14.317z"],
+  rect[ry="0.717"],
+  circle,
+  ellipse {
+    fill: #dbc4de;
+  }
+  .Scrubber__scrubHandle {
+    font-size: 0.72rem;
+  }
+}
